@@ -9,7 +9,6 @@ export default function App() {
     <Provider store={store}>
       <div className="mybox">
         <h1>Hello StackBlitz!</h1>
-        <Counter></Counter>
         <Todo></Todo>
       </div>
     </Provider>
